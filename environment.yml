@@ -10,7 +10,3 @@ dependencies:
   - jupyterlab
   - biopython 
   - nglview
-  - pip
-  - seqlike
-  - bokeh
-  - bioconda::mafft
